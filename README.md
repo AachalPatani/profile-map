@@ -68,3 +68,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+The key functionalities of the application include:
+1. Profile Display: Create a webpage that presents a collection of profiles,
+each comprising essential information such as the person's name,
+photograph, and a brief description.
+2. Interactive Mapping: Incorporate an interactive map component that can
+dynamically display addresses based on user interactions. This map will
+allow users to see the geographical location associated with each profile.
+3. Summary Integration: Implement a "Summary" button adjacent to each
+profile. Clicking this button should trigger the display of the map
+component with a marker indicating the precise address of the selected
+profile.
+4. User-Friendly Experience: Ensure that the application offers a smooth and
+intuitive user experience, enabling users to easily navigate profiles and
+access mapped addresses without confusion.
+5. Profile Data Management : Allow administrators to add, edit, or delete
+profiles.
+6. Search and Filter Functionality : Provide users with the ability to search and
+filter profiles based on different criteria, such as name, location, or other
+attributes. This enhances the usability of the application.
+7. Responsive Design : Ensure that the application is responsive and
+mobile-friendly so that users can access it from various devices, including
+smartphones and tablets.
+8. Error Handling Implement robust error handling and validation
+mechanisms to handle issues gracefully, such as invalid addresses or
+failed map service requests.
+9. Loading Indicators : Include loading indicators of progress bars to give
+users feedback when the application is fetching data or rendering the map.
+10. Profile Details: Create a separate profile details view that provides more
+in-depth information about each profile when a user clicks on a profile
+card. This can include additional details like contact information, interests,
+etc.
